@@ -527,7 +527,7 @@ li {
   -webkit-line-clamp: 5;
   -webkit-box-orient: vertical;
   overflow: hidden;
-  white-space: nowrap;
+
 }
 .expend_more > p {
   font-size: 2rem;
