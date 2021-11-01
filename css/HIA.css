@@ -165,10 +165,12 @@ li {
 }
 .navbar-brand {
   margin-left: 1rem;
-  width: 26rem;
+  width: 24%;
   margin-top: 1rem;
 }
-
+.navbar-brand > img {
+  width: 100%;
+}
 .landing-page {
   z-index: -1;
   width: 100%;
