@@ -229,8 +229,8 @@ li {
   margin-top: 2rem;
 }
 .Getin-touch-btn > a:hover {
-  background-color: #001445;
-  color: #e50094;
+  background-color: #001445 !important;
+  color: #e50094 !important;
   font-size: 2rem;
   border-radius: 20px;
   padding: 0.5rem 2rem;
