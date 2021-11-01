@@ -527,6 +527,8 @@ li {
   -webkit-line-clamp: 5;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  white-space: nowrap;
+  word-wrap: break-word;
 
 }
 .expend_more > p {
