@@ -523,12 +523,8 @@ li {
 }
 .cstm-red-more {
   transition: 0.3s ease;
-  display: -webkit-box;
-  -webkit-line-clamp: 5;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  white-space: nowrap;
-  word-wrap: break-word;
+  height: 16.5rem;
+overflow: hidden;
 
 }
 .expend_more > p {
