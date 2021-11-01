@@ -897,8 +897,12 @@ textarea.form-control {
 }
 
 .team .member .member-img {
+  height: 61%;
   position: relative;
   overflow: hidden;
+}
+.member-img > img{
+width:inherit;
 }
 
 .team .member .social {
@@ -1181,9 +1185,11 @@ textarea.form-control {
   }
   .team .member .member-img {
     text-align: center;
+    width: inherit;
+    height: auto;
   }
   .team .member .member-img > img {
-    max-width: 80%;
+    width: inherit;
     margin-top: 3rem;
   }
 
