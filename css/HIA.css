@@ -165,13 +165,13 @@ li {
 }
 .navbar-brand {
   margin-left: 1rem;
-  width: auto;
+  width: 26rem;
   margin-top: 1rem;
   padding-right: 0;
   margin-right: 0;
 }
-.navbar-brand , img {
-  width: 260px;
+.navbar-brand > img {
+  width: inherit;
 }
 .landing-page {
   z-index: -1;
